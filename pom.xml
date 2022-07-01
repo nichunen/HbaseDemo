@@ -14,7 +14,7 @@
 
         <!-- Component versions are defined here -->
         <!-- Note that Hadoop dependencies are defined in hadoop-meta -->
-        <hadoop.version>2.6.4</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <hive.version>1.2.1</hive.version>
         <hbase.version>1.2.3</hbase.version>
         <zookeeper.version>3.4.6</zookeeper.version>
